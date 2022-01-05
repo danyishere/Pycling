@@ -31,7 +31,7 @@ if page == "Résultats du projet":
         st.title('Analyse du trafic cycliste à Paris',)
                 
     with colz:
-        st.write('')
+        st.write('') 
 
     col10, col11, col12 = st.columns((1,3,1))  
     
