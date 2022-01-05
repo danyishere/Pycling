@@ -1,5 +1,5 @@
 # Pycling
-Projet Vélib mené par Liat Levi, Daniel Moutou et Tévy Phy
+Projet Vélib créé dans le cadre du passage du diplôùe de Data Analyst avec DataScientest et La Sorbonne Paris.
 
 -----------
 
