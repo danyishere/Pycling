@@ -1,5 +1,5 @@
 # Pycling
-Projet Vélib créé dans le cadre du passage du diplôùe de Data Analyst avec DataScientest et La Sorbonne Paris.
+Projet Vélib créé dans le cadre du passage du diplôme de Data Analyst avec DataScientest et La Sorbonne Paris.
 
 -----------
 
